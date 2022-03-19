@@ -17,7 +17,7 @@
 
 				
 				body {
-				font-family: 'Monument Extended', sans-serif;
+				font-family:sans-serif;
 				}
 				
 				.wave {
