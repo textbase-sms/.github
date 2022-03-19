@@ -52,7 +52,7 @@
 				}
 				
 				h1 {
-				  font-family:"Monument Extended", sans-serif;
+				  font-family:"Monument Extended";
 				  margin: 0;
 				  font-size: 3.75em;
 				  font-weight: 900;
